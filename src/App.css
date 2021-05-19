@@ -39,7 +39,13 @@
 .big-div{
   position: relative;
 }
+.carusel{
+  position: absolute;
+  left: 34%;
+  top: 25%;
+}
 .btn-sign{
   position: absolute;
-  top: 0px;
+  left: 78%;
+  top: 80%;
 }
