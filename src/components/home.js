@@ -20,9 +20,7 @@ export const Home = () => {
     return (
         <React.Fragment>
             <CssBaseline />
-
             <Container fixed>
-
                 <Typography component="div" style={{ backgroundColor: '#cfe8fc', height: '100vh' }} className="big-div">
                     <div>
                         <div>
@@ -47,10 +45,7 @@ export const Home = () => {
 </p>
 
                         <Button variant="contained" size="medium">לצפיה בהצעות קודמות שהתקבלו באתר</Button>
-
-
                     </div>
-
                 </Typography>
             </Container>
         </React.Fragment>
